@@ -1,4 +1,4 @@
-"""Runs a simulation on the river"""
+"""Runs a simulation on the river."""
 
 __author__: str = "730554286"
 
