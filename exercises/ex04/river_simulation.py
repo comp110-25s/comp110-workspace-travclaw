@@ -1,3 +1,5 @@
+"""Runs a simulation on the river"""
+
 __author__: str = "730554286"
 
 from exercises.EX04.river import River
